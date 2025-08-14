@@ -1,11 +1,15 @@
 Hi, I'm Prashant 👋
 ----------------------------------------------------
 
+
 I’m a research student at IISER Kolkata passionate about science and programming.
 
 - 🔭 Currently working on — HTML | CSS | JavaScript | LaTeX
 - 🌱 Currently learning — R Programming
 - 🧬 Interests — Molecular Biology | Gene Manipulation | Web Development
+
+
+
 
 
 🛠 Technologies I’m into
