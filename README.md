@@ -1,6 +1,6 @@
 Hi, I'm Prashant 👋
 ----------------------------------------------------
-
+<br>
 
 I’m a research student at IISER Kolkata passionate about science and programming.
 
@@ -8,9 +8,12 @@ I’m a research student at IISER Kolkata passionate about science and programmi
 - 🌱 Currently learning — R Programming
 - 🧬 Interests — Molecular Biology | Gene Manipulation | Web Development
 
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 🛠 Technologies I’m into
 ----------------------------------------------------
