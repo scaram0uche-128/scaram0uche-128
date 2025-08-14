@@ -12,8 +12,7 @@ I’m a research student at IISER Kolkata passionate about science and programmi
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
 🛠 Technologies I’m into
 ----------------------------------------------------
