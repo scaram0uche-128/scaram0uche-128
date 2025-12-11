@@ -81,7 +81,7 @@ Check out my projects and work at: https://scaram0uche-128.github.io/
 </a>
 
 <!-- Instagram -->
-<a href="https://www.instagram.com/YOUR_USERNAME_HERE" target="_blank" rel="noreferrer">
+<a href="https://www.instagram.com/scaram0uche_128/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
