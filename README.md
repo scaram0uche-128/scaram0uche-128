@@ -2,7 +2,7 @@
 
 I'm a first-year BS-MS student at IISER Kolkata, currently exploring core sciences and modern technology.  
 
-I am also working as a **Frontend Designer & Developer** for the Institute's Astronomy Club **Singularity**.
+I am working as a **Frontend Designer & Developer** for the Institute's Astronomy Club **Singularity**. 🌌👨🏻‍🚀
 
 
 🖥️ Portfolio  
@@ -11,12 +11,11 @@ Check out my projects and work at: https://scaram0uche-128.github.io/
 ---
 
 ### 👩🏻‍💻 Tech Interests: 
-**Quantum Computing | Scientific Computing | Cybersecurity | Web Development**
+**Scientific Computing | Web Development | Cybersecurity**
 
 
-### 🧠 Currently Learning  
-- Quantum Computing  
-- Cybersecurity  
+### 🧠 Currently Learning:  
+- Scientific Computing   
 - Advanced Python & Algorithms  
 
 ---
