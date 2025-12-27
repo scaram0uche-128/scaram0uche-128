@@ -6,7 +6,7 @@ I am working as a **Frontend Designer & Developer** for the Institute's Astronom
 
 
 🖥️ Portfolio  
-Check out my projects and work at: https://scaram0uche-128.github.io/ 
+Check out my projects and work at: https://prashantkr-dev.github.io/
 
 ---
 
@@ -78,16 +78,6 @@ Check out my projects and work at: https://scaram0uche-128.github.io/
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
 </picture>
 </a>
-
-<!-- Instagram -->
-<a href="https://www.instagram.com/scaram0uche_128/" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-</picture>
-</a>
-
 </p>
 
 ---
